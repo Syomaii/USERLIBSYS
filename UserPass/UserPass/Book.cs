@@ -18,7 +18,7 @@ namespace LibSys
         public frmBook()
         {
             InitializeComponent();
-            con = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\"Z:\\QQ129\\Putol, Christian Jay\\LibSys.mdb\"");
+            con = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\"C:\\Users\\User\\Desktop\\dev\\2NDYEAR\\2nd SEM\\appsdev\\USERLIBSYS-main\\UserPass\\LibSys.mdb\"");
         }
         private void loadDatagrid()
         {

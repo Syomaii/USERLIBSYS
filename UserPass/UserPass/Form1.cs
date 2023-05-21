@@ -21,11 +21,11 @@ namespace UserPass
 
         private void btnSubmit_Click(object sender, EventArgs e)
         {
-            string connection = @"Provider = Microsoft.ACE.OLEDB.12.0; Data Source = Z:\QQ129\Putol, Christian Jay\PASSWORD.mdb";
+            string connection = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\PASSWORD.mdb";
             OleDbConnection connect = new OleDbConnection(connection);
             connect.Open();
 
-            string query = "SELECT * FROM [PASSWORD]";
+            string query = "SELECT * FROM [Password]";
             OleDbCommand access = new OleDbCommand(query, connect);
 
             OleDbDataReader reader = access.ExecuteReader();

@@ -12,3 +12,18 @@ Z:\QQ129\Putol, Christian Jay\UserPass\UserPass\obj\Debug\UserPass.frmLogin.reso
 Z:\QQ129\Putol, Christian Jay\UserPass\UserPass\obj\Debug\UserPass.frmMenu.resources
 Z:\QQ129\Putol, Christian Jay\UserPass\UserPass\obj\Debug\UserPass.frmUser.resources
 Z:\QQ129\Putol, Christian Jay\UserPass\UserPass\obj\Debug\LibSys.frmBook.resources
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\bin\Debug\UserPass.exe.config
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\bin\Debug\UserPass.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\bin\Debug\UserPass.pdb
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\LibSys.frmBook.resources
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.frmLogin.resources
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.frmMenu.resources
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.Properties.Resources.resources
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.frmUser.resources
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.csproj.GenerateResource.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.pdb
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.frmAddUser.resources
