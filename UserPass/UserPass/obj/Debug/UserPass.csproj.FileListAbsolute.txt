@@ -27,3 +27,17 @@ C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserP
 C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.exe
 C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.pdb
 C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.frmAddUser.resources
+Z:\QQ129\Putol, Christian Jay\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.csproj.AssemblyReference.cache
+Z:\QQ129\Putol, Christian Jay\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.csproj.SuggestedBindingRedirects.cache
+Z:\QQ129\Putol, Christian Jay\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.exe
+Z:\QQ129\Putol, Christian Jay\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.pdb
+Z:\QQ129\Putol, Christian Jay\USERLIBSYS-main\UserPass\UserPass\bin\Debug\UserPass.exe.config
+Z:\QQ129\Putol, Christian Jay\USERLIBSYS-main\UserPass\UserPass\bin\Debug\UserPass.exe
+Z:\QQ129\Putol, Christian Jay\USERLIBSYS-main\UserPass\UserPass\bin\Debug\UserPass.pdb
+Z:\QQ129\Putol, Christian Jay\USERLIBSYS-main\UserPass\UserPass\obj\Debug\LibSys.frmBook.resources
+Z:\QQ129\Putol, Christian Jay\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.frmLogin.resources
+Z:\QQ129\Putol, Christian Jay\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.frmMenu.resources
+Z:\QQ129\Putol, Christian Jay\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.Properties.Resources.resources
+Z:\QQ129\Putol, Christian Jay\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.frmUser.resources
+Z:\QQ129\Putol, Christian Jay\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.csproj.GenerateResource.cache
+Z:\QQ129\Putol, Christian Jay\USERLIBSYS-main\UserPass\UserPass\obj\Debug\UserPass.csproj.CoreCompileInputs.cache

@@ -13,7 +13,7 @@ namespace UserPass
 {
     public partial class frmUser : Form
     {
-        OleDbConnection connection;
+        OleDbConnection connection = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=Z:\\QQ129\\Putol, Christian Jay\\USERLIBSYS-main\\UserPass\\PASSWORD.mdb");
         OleDbCommand command = new OleDbCommand();
         DataView dv = new DataView();
         OleDbDataAdapter adapter = new OleDbDataAdapter();
@@ -22,7 +22,6 @@ namespace UserPass
         public frmUser()
         {
             InitializeComponent();
-            connection = new OleDbConnection("Provider = Microsoft.ACE.OLEDB.12.0; Data Source = C:\\Users\\User\\Desktop\\dev\\2NDYEAR\\2nd SEM\\appsdev\\USERLIBSYS-main\\UserPass\\PASSWORD.mdb");
             ViewData();
         }
 
@@ -191,6 +190,22 @@ namespace UserPass
                 }
             }
             ViewData();
+        }
+
+        private void txtBoxSearch_TextChanged(object sender, EventArgs e)
+        {
+            connection.Open();
+            OleDbCommand com = new OleDbCommand("Select * from [Password] where User like '%" + txtBoxSearch.Text +
+                "%'", connection);
+            com.ExecuteNonQuery();
+
+            OleDbDataAdapter adap = new OleDbDataAdapter(com);
+            DataTable tab = new DataTable();
+
+            adap.Fill(tab);
+            Grid1.DataSource = tab;
+
+            connection.Close();
         }
     }
 }

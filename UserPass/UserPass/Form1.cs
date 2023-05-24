@@ -21,8 +21,7 @@ namespace UserPass
 
         private void btnSubmit_Click(object sender, EventArgs e)
         {
-            string connection = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\USERLIBSYS-main\UserPass\PASSWORD.mdb";
-            OleDbConnection connect = new OleDbConnection(connection);
+            OleDbConnection connect = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=Z:\\QQ129\\Putol, Christian Jay\\USERLIBSYS-main\\UserPass\\PASSWORD.mdb");
             connect.Open();
 
             string query = "SELECT * FROM [Password]";
